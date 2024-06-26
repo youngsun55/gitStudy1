@@ -1,2 +1,3 @@
 master.txt
-master에서 작성함
+master에서 작성함kim에서 수정
+kim에서 한 줄 추가함
